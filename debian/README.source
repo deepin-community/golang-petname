@@ -1,0 +1,2 @@
+When preparing a package of a new upstream version, take a look at debian/update-wordlists.sh
+which may or may not be useful. -- Jonathan Dowland
